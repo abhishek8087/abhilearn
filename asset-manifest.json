@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/abhilearn/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/abhilearn/static/js/main.bde47191.chunk.js",
+    "main.js.map": "/abhilearn/static/js/main.bde47191.chunk.js.map",
+    "runtime-main.js": "/abhilearn/static/js/runtime-main.98956c23.js",
+    "runtime-main.js.map": "/abhilearn/static/js/runtime-main.98956c23.js.map",
+    "static/css/2.658248ec.chunk.css": "/abhilearn/static/css/2.658248ec.chunk.css",
+    "static/js/2.551ed900.chunk.js": "/abhilearn/static/js/2.551ed900.chunk.js",
+    "static/js/2.551ed900.chunk.js.map": "/abhilearn/static/js/2.551ed900.chunk.js.map",
+    "static/js/3.9ebdf1b7.chunk.js": "/abhilearn/static/js/3.9ebdf1b7.chunk.js",
+    "static/js/3.9ebdf1b7.chunk.js.map": "/abhilearn/static/js/3.9ebdf1b7.chunk.js.map",
+    "index.html": "/abhilearn/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/abhilearn/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/abhilearn/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.551ed900.chunk.js.LICENSE.txt": "/abhilearn/static/js/2.551ed900.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98956c23.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.551ed900.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bde47191.chunk.js"
+  ]
+}
